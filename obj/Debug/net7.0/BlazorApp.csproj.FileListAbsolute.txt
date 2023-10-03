@@ -20,10 +20,7 @@ C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\staticwebassets\msbui
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
-C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
