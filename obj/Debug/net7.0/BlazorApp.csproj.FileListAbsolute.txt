@@ -26,3 +26,5 @@ C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
 C:\Users\ike2d\Documents\GitHub\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+C:\Users\ike2d\Documents\GitHub\BlazorApp\bin\Debug\net7.0\package-lock.json
+C:\Users\ike2d\Documents\GitHub\BlazorApp\bin\Debug\net7.0\package.json
