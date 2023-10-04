@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IKesuuEZNL+dqV8LgBIr2wcJpAvh5ouAYKZp+rLGtZE=",
+  "Hash": "YL+UiuEfRca7JyfHzwTqUPEY/ctsWZ4ZO/LuW8P4tCU=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.eot",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.eot",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/fonts/remixicon.eot",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\fonts\\remixicon.eot"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.ttf",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.ttf",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/fonts/remixicon.ttf",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\fonts\\remixicon.ttf"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.woff",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.woff",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/fonts/remixicon.woff",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\fonts\\remixicon.woff"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.woff2",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.woff2",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/fonts/remixicon.woff2",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\fonts\\remixicon.woff2"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.css",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/input.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\input.css"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.css.map",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/input.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\input.css.map"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.scss",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.scss",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/input.scss",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\input.scss"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_base.scss",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_base.scss",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/partials/_base.scss",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\partials\\_base.scss"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_components.scss",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_components.scss",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/partials/_components.scss",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\partials\\_components.scss"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_partials.scss",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_partials.scss",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/partials/_partials.scss",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\partials\\_partials.scss"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_utilities.scss",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_utilities.scss",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/partials/_utilities.scss",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\partials\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\remixicon.css",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\remixicon.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/remixicon.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\remixicon.css"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\scripts\\script.js",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\scripts\\script.js",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/scripts/script.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\scripts\\script.js"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/styles.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css.map",
+      "Identity": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\styles.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "styles/styles.css.map",
       "AssetKind": "All",

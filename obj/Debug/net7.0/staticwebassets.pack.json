@@ -1,67 +1,67 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.eot",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.eot",
       "PackagePath": "staticwebassets\\styles\\fonts\\remixicon.eot"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.ttf",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.ttf",
       "PackagePath": "staticwebassets\\styles\\fonts\\remixicon.ttf"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.woff",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.woff",
       "PackagePath": "staticwebassets\\styles\\fonts\\remixicon.woff"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\fonts\\remixicon.woff2",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\fonts\\remixicon.woff2",
       "PackagePath": "staticwebassets\\styles\\fonts\\remixicon.woff2"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.css",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.css",
       "PackagePath": "staticwebassets\\styles\\input.css"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.css.map",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.css.map",
       "PackagePath": "staticwebassets\\styles\\input.css.map"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\input.scss",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\input.scss",
       "PackagePath": "staticwebassets\\styles\\input.scss"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_base.scss",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_base.scss",
       "PackagePath": "staticwebassets\\styles\\partials\\_base.scss"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_components.scss",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_components.scss",
       "PackagePath": "staticwebassets\\styles\\partials\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_partials.scss",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_partials.scss",
       "PackagePath": "staticwebassets\\styles\\partials\\_partials.scss"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\partials\\_utilities.scss",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\partials\\_utilities.scss",
       "PackagePath": "staticwebassets\\styles\\partials\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\remixicon.css",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\remixicon.css",
       "PackagePath": "staticwebassets\\styles\\remixicon.css"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\scripts\\script.js",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\scripts\\script.js",
       "PackagePath": "staticwebassets\\styles\\scripts\\script.js"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\styles.css",
       "PackagePath": "staticwebassets\\styles\\styles.css"
     },
     {
-      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css.map",
+      "Id": "C:\\Users\\ike2d\\OneDrive\\Documents\\Development\\blazor-app\\wwwroot\\styles\\styles.css.map",
       "PackagePath": "staticwebassets\\styles\\styles.css.map"
     },
     {

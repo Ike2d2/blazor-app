@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = c:\Users\ike2d\Documents\GitHub\BlazorApp\
+build_property.ProjectDir = C:\Users\ike2d\OneDrive\Documents\Development\blazor-app\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ike2d\Documents\GitHub\BlazorApp
+build_property.MSBuildProjectDirectory = C:\Users\ike2d\OneDrive\Documents\Development\blazor-app
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/App.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Pages/Index.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Pages/NotFound.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/Footer.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/Header.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/MainContent.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/MainContent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5Db250ZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/MainLayout.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/RightContainer.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/RightContainer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJpZ2h0Q29udGFpbmVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Shared/Sidebar.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Shared/Sidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpZGViYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/_Imports.razor]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Pages/Error.cshtml]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ike2d/Documents/GitHub/BlazorApp/Pages/_Host.cshtml]
+[C:/Users/ike2d/OneDrive/Documents/Development/blazor-app/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

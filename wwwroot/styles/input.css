@@ -9,4 +9,12 @@
   body {
     @apply flex;
   }
+}
+@layer components {
+  .sidebar {
+    transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s, width 0.3s;
+  }
+}
+* {
+  transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
 }/*# sourceMappingURL=input.css.map */
