@@ -238,6 +238,454 @@
         }
       },
       {
+        "HashCode": 1000856545,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Sidebar",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Sidebar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Sidebar"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Collapsed",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool BlazorApp.Shared.Sidebar.Collapsed",
+            "Metadata": {
+              "Common.PropertyName": "Collapsed",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CollapsedChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "DisplayName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean> BlazorApp.Shared.Sidebar.CollapsedChanged",
+            "Metadata": {
+              "Common.PropertyName": "CollapsedChanged",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::System.Boolean>",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Sidebar",
+          "Common.TypeNameIdentifier": "Sidebar",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1082709953,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Sidebar",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Sidebar",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.Sidebar"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Collapsed",
+            "TypeName": "System.Boolean",
+            "DisplayName": "bool BlazorApp.Shared.Sidebar.Collapsed",
+            "Metadata": {
+              "Common.PropertyName": "Collapsed",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CollapsedChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "DisplayName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean> BlazorApp.Shared.Sidebar.CollapsedChanged",
+            "Metadata": {
+              "Common.PropertyName": "CollapsedChanged",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::System.Boolean>",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Sidebar",
+          "Common.TypeNameIdentifier": "Sidebar",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1425000137,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.RightContainer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.RightContainer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RightContainer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.RightContainer.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.RightContainer",
+          "Common.TypeNameIdentifier": "RightContainer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 773173137,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.RightContainer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.RightContainer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.RightContainer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.RightContainer.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.RightContainer",
+          "Common.TypeNameIdentifier": "RightContainer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1861538007,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.RightContainer.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.RightContainer.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "RightContainer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.RightContainer.ChildContent",
+          "Common.TypeNameIdentifier": "RightContainer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -887921076,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.RightContainer.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.RightContainer.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazorApp.Shared.RightContainer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.RightContainer.ChildContent",
+          "Common.TypeNameIdentifier": "RightContainer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1534974322,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Header",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Header",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Header"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.Header.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Header",
+          "Common.TypeNameIdentifier": "Header",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 720139670,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Header",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Header",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.Header"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.Header.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Header",
+          "Common.TypeNameIdentifier": "Header",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1608111151,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.Header.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Header.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Header"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Header.ChildContent",
+          "Common.TypeNameIdentifier": "Header",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1756253065,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.Header.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Header.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazorApp.Shared.Header"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Header.ChildContent",
+          "Common.TypeNameIdentifier": "Header",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1842106184,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Footer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Footer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 2104306018,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Footer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Footer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1744013835,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.MainContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.MainContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainContent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.MainContent.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.MainContent",
+          "Common.TypeNameIdentifier": "MainContent",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1545761313,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.MainContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.MainContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.MainContent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "DisplayName": "Microsoft.AspNetCore.Components.RenderFragment BlazorApp.Shared.MainContent.ChildContent",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.MainContent",
+          "Common.TypeNameIdentifier": "MainContent",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 297765119,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.MainContent.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.MainContent.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "MainContent"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.MainContent.ChildContent",
+          "Common.TypeNameIdentifier": "MainContent",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1243063604,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorApp.Shared.MainContent.ChildContent",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.MainContent.ChildContent",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazorApp.Shared.MainContent"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.MainContent.ChildContent",
+          "Common.TypeNameIdentifier": "MainContent",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
         "HashCode": 234193131,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -22528,6 +22976,237 @@
         }
       },
       {
+        "HashCode": 741944060,
+        "Kind": "Components.Bind",
+        "Name": "BlazorApp.Shared.Sidebar",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Sidebar",
+        "Documentation": {
+          "Id": 10,
+          "Args": [
+            "Collapsed",
+            "CollapsedChanged"
+          ]
+        },
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Sidebar",
+            "Attributes": [
+              {
+                "Name": "@bind-Collapsed",
+                "DisplayName": "@bind-Collapsed",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "Sidebar",
+            "Attributes": [
+              {
+                "Name": "@bind-Collapsed:get",
+                "DisplayName": "@bind-Collapsed:get",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              },
+              {
+                "Name": "@bind-Collapsed:set",
+                "DisplayName": "@bind-Collapsed:set",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Collapsed",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "DisplayName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean> BlazorApp.Shared.Sidebar.Collapsed",
+            "Documentation": {
+              "Id": 10,
+              "Args": [
+                "Collapsed",
+                "CollapsedChanged"
+              ]
+            },
+            "BoundAttributeParameters": [
+              {
+                "Kind": "Components.Bind",
+                "Name": "get",
+                "TypeName": "System.Object",
+                "DisplayName": ":get",
+                "Documentation": {
+                  "Id": 8
+                },
+                "Metadata": {
+                  "Common.PropertyName": "Get",
+                  "Components.Bind.AlternativeNotation": "True"
+                }
+              },
+              {
+                "Kind": "Components.Bind",
+                "Name": "set",
+                "TypeName": "System.Delegate",
+                "DisplayName": ":set",
+                "Documentation": {
+                  "Id": 9
+                },
+                "Metadata": {
+                  "Common.PropertyName": "Set"
+                }
+              },
+              {
+                "Kind": "Components.Bind",
+                "Name": "after",
+                "TypeName": "System.Delegate",
+                "DisplayName": ":after",
+                "Documentation": {
+                  "Id": 4
+                },
+                "Metadata": {
+                  "Common.PropertyName": "After"
+                }
+              }
+            ],
+            "Metadata": {
+              "Common.PropertyName": "Collapsed",
+              "Common.DirectiveAttribute": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Sidebar",
+          "Common.TypeNameIdentifier": "Sidebar",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.Bind.ChangeAttribute": "CollapsedChanged",
+          "Components.Bind.ValueAttribute": "Collapsed",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -135558028,
+        "Kind": "Components.Bind",
+        "Name": "BlazorApp.Shared.Sidebar",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Sidebar",
+        "Documentation": {
+          "Id": 10,
+          "Args": [
+            "Collapsed",
+            "CollapsedChanged"
+          ]
+        },
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.Sidebar",
+            "Attributes": [
+              {
+                "Name": "@bind-Collapsed",
+                "DisplayName": "@bind-Collapsed",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "BlazorApp.Shared.Sidebar",
+            "Attributes": [
+              {
+                "Name": "@bind-Collapsed:get",
+                "DisplayName": "@bind-Collapsed:get",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              },
+              {
+                "Name": "@bind-Collapsed:set",
+                "DisplayName": "@bind-Collapsed:set",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Collapsed",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean>",
+            "DisplayName": "Microsoft.AspNetCore.Components.EventCallback<System.Boolean> BlazorApp.Shared.Sidebar.Collapsed",
+            "Documentation": {
+              "Id": 10,
+              "Args": [
+                "Collapsed",
+                "CollapsedChanged"
+              ]
+            },
+            "BoundAttributeParameters": [
+              {
+                "Kind": "Components.Bind",
+                "Name": "get",
+                "TypeName": "System.Object",
+                "DisplayName": ":get",
+                "Documentation": {
+                  "Id": 8
+                },
+                "Metadata": {
+                  "Common.PropertyName": "Get",
+                  "Components.Bind.AlternativeNotation": "True"
+                }
+              },
+              {
+                "Kind": "Components.Bind",
+                "Name": "set",
+                "TypeName": "System.Delegate",
+                "DisplayName": ":set",
+                "Documentation": {
+                  "Id": 9
+                },
+                "Metadata": {
+                  "Common.PropertyName": "Set"
+                }
+              },
+              {
+                "Kind": "Components.Bind",
+                "Name": "after",
+                "TypeName": "System.Delegate",
+                "DisplayName": ":after",
+                "Documentation": {
+                  "Id": 4
+                },
+                "Metadata": {
+                  "Common.PropertyName": "After"
+                }
+              }
+            ],
+            "Metadata": {
+              "Common.PropertyName": "Collapsed",
+              "Common.DirectiveAttribute": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Sidebar",
+          "Common.TypeNameIdentifier": "Sidebar",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.Bind.ChangeAttribute": "CollapsedChanged",
+          "Components.Bind.ValueAttribute": "Collapsed",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
         "HashCode": -2146367128,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
@@ -24288,6 +24967,31 @@
     {
       "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Pages\\NotFound.razor",
       "TargetPath": "Pages\\NotFound.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Shared\\Sidebar.razor",
+      "TargetPath": "Shared\\Sidebar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Shared\\RightContainer.razor",
+      "TargetPath": "Shared\\RightContainer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Shared\\Header.razor",
+      "TargetPath": "Shared\\Header.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Shared\\Footer.razor",
+      "TargetPath": "Shared\\Footer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\Shared\\MainContent.razor",
+      "TargetPath": "Shared\\MainContent.razor",
       "FileKind": "component"
     }
   ]

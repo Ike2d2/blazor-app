@@ -1,0 +1,10 @@
+﻿
+
+<div class="w-0 @(Collapsed ?"md:w-20":"md:w-56") bg-blue-500"></div>
+
+@code {
+    [Parameter]
+    public bool Collapsed {get; set;}
+    [Parameter]
+    public EventCallback<bool> CollapsedChanged { get; set; }
+}

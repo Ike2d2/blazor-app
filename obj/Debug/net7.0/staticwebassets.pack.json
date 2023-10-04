@@ -53,8 +53,16 @@
       "PackagePath": "staticwebassets\\styles\\remixicon.css"
     },
     {
+      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\styles\\scripts\\script.js"
+    },
+    {
       "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css",
       "PackagePath": "staticwebassets\\styles\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css.map",
+      "PackagePath": "staticwebassets\\styles\\styles.css.map"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",

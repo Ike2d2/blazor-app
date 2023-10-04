@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QsjzwRGZD6EvofTqyGb2CZIgHw6c5w/5bj6ZYH1koPw=",
+  "Hash": "IKesuuEZNL+dqV8LgBIr2wcJpAvh5ouAYKZp+rLGtZE=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -238,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\styles\\remixicon.css"
     },
     {
+      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\scripts\\script.js",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "styles/scripts/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\scripts\\script.js"
+    },
+    {
       "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
@@ -253,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\styles\\styles.css.map",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ike2d\\Documents\\GitHub\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "styles/styles.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\styles.css.map"
     }
   ]
 }

@@ -1,4 +1,12 @@
 @import "../../node_modules/tailwindcss/base.css";
 @import "../../node_modules/tailwindcss/components.css";
 @import "../../node_modules/tailwindcss/utilities.css";
-@import "./remixicon.css";/*# sourceMappingURL=input.css.map */
+@import "./remixicon.css";
+@layer base {
+  html, body {
+    @apply h-full;
+  }
+  body {
+    @apply flex;
+  }
+}/*# sourceMappingURL=input.css.map */

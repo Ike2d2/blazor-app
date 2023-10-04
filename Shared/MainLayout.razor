@@ -1,7 +1,21 @@
 ﻿@inherits LayoutComponentBase
 
 <PageTitle>Shell</PageTitle>
+<Sidebar @bind-Collapsed="Collapsed"/>
+<RightContainer>
+    <Header>
+        <i class="ri-menu-line text-3xl" @onclick="sidebarCollapse"></i>
+    </Header>
+    <MainContent>
+        @Body
+    </MainContent>
+    <Footer></Footer>
+</RightContainer>
 
-<div class="page">
-    @Body
-</div>
+@code {
+    public bool Collapsed = false;
+    public void sidebarCollapse()
+    {
+        Collapsed = !Collapsed;
+    }
+}
