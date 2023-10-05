@@ -1,0 +1,32 @@
+﻿<div class="flex flex-col gap-y-4 p-6">
+    @foreach (var e in elements)
+    {
+        <div class="flex items-center gap-x-2">
+            <i class=@e.icon></i><span>@e.title</span>
+        </div>
+    }
+</div>
+
+
+@code {
+    public class navLink
+    {
+        public required string title { get; set; }
+        public required string icon { get; set; }
+    }
+
+    navLink[] elements = {
+new() {
+title = "Link 1",
+icon = "ri-home-line"
+},
+new() {
+title = "Link 2",
+icon = "ri-home-2-line"
+},
+new() {
+title = "Link 3",
+icon = "ri-home-3-line"
+}
+};
+}

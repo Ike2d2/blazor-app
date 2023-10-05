@@ -7,12 +7,15 @@
     @apply h-full;
   }
   body {
-    @apply flex;
+    @apply flex text-gray-400 bg-gray-300 dark:bg-gray-950;
   }
 }
 @layer components {
   .sidebar {
     transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s, width 0.3s;
+  }
+  .sidebar * {
+    transition: height 0.3s;
   }
 }
 * {

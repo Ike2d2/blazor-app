@@ -1,6 +1,9 @@
 ﻿
 
-<div class="sidebar w-0 @(Collapsed ?"md:w-20":"md:w-60") bg-blue-500 shrink-0"></div>
+<div class="sidebar w-0 @(Collapsed ?"md:w-20":"md:w-60") bg-gray-200 dark:bg-gray-700 shrink-0">
+    <div class="w-full @(Collapsed ?"h-18":"md:h-40") p-2 flex items-center justify-center"><img src="images/pfp.png" class="rounded-full h-full"></div>
+    <MainNav />
+</div>
 
 @code {
     [Parameter]
